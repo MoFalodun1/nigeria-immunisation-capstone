@@ -1,0 +1,7 @@
+requests
+pandas
+openpyxl
+numpy
+scikit-learn
+statsmodels
+matplotlib

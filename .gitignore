@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Do NOT commit restricted DHS microdata
+data/raw/*.DTA
+data/raw/*.dta
+data/raw/*.SAV
+data/raw/*.DAT
