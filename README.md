@@ -84,6 +84,6 @@ RMSE in percentage points (lower is better).
 |---|---|---|
 | Moses O. Falodun | Team lead: data cleaning, Power BI dashboard and charts | @MoFalodun1 |
 | Muflihat Abdulmajid | Technical report | @Muflih14 |
-| Aisha Hilal Galadanchi | Problem statement, review and compilation | [to be added] |
+| Aisha Hilal Galadanchi | Problem statement, review and compilation | aishahilalgaladanchi-crypto |
 
 One commit per member per active day.
