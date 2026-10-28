@@ -80,10 +80,26 @@ RMSE in percentage points (lower is better).
 - Only three survey rounds, so findings may not generalise.
 
 ## 8. Team
+Public Health Analytics track, eHA Academy Data Science Capstone.
+
 | Member | Role | GitHub |
 |---|---|---|
-| Moses O. Falodun | Team lead: data cleaning, Power BI dashboard and charts | @MoFalodun1 |
-| Muflihat Abdulmajid | Technical report | @Muflih14 |
-| Aisha Hilal Galadanchi | Problem statement, review and compilation | aishahilalgaladanchi-crypto |
+| Moses O. Falodun | Team lead | [@MoFalodun1](https://github.com/MoFalodun1) |
+| Muflihat Abdulmajid | Technical report | [@Muflih14](https://github.com/Muflih14) |
+| Aisha Hilal Galadanchi | Problem statement, review and compilation | [@aishahilalgaladanchi-crypto](https://github.com/aishahilalgaladanchi-crypto) |
+
+### Contributions
+**Moses O. Falodun (team lead)**
+- Led the project and coordinated the team.
+- Cleaned and prepared the data.
+- Built the Power BI dashboard and the charts.
+- Set up and maintains this GitHub repository.
+
+**Muflihat Abdulmajid**
+- Wrote the technical report.
+
+**Aisha Hilal Galadanchi**
+- Wrote the problem statement.
+- Reviewed the project outputs and compiled the final submission.
 
 One commit per member per active day.
