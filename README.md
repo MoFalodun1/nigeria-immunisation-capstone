@@ -1,5 +1,5 @@
 # Childhood Immunisation Coverage and Inequalities in Nigeria
-*eHA Academy Data Science Capstone, Public Health Analytics track*
+*eHA Academy Data Science Capstone, Public Health Analytics track | Team Impact Builders*
 
 ## 1. Problem (5W)
 - **Who:** immunisation programme managers at the National Primary Health Care Development Agency and State Primary Health Care Boards
@@ -80,7 +80,7 @@ RMSE in percentage points (lower is better).
 - Only three survey rounds, so findings may not generalise.
 
 ## 8. Team
-Public Health Analytics track, eHA Academy Data Science Capstone.
+Team **Impact Builders**, Public Health Analytics track, eHA Academy Data Science Capstone.
 
 | Member | Role | GitHub |
 |---|---|---|
